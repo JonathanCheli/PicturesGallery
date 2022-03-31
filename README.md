@@ -24,6 +24,10 @@ Paging.
 
 Coroutines.
 
+Reactive programming.
+
+clean code.
+
 Material Components.
 
 Jetpack:
