@@ -20,6 +20,10 @@ Glide.
 
 OkHttp3.
 
+Paging.
+
+Coroutines.
+
 Material Components.
 
 Jetpack:
