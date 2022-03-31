@@ -33,8 +33,11 @@ Material Components.
 Jetpack:
 
 Lifecycle.
-ViewModel
+
+ViewModel.
+
 Navigation Components.
+
 Data Binding.
 
 
