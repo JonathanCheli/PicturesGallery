@@ -8,6 +8,7 @@ Material design components.
 Retrofit and OKHTTP are the clients chosen for working with the API response.
 
 Technologies.
+
 Kotlin.
 
 Retrofit.
