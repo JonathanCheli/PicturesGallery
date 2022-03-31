@@ -1,6 +1,6 @@
 # PicturesGallery
 
-Simple app that shows images in a recyclerview, that allows user to select the amount of images displayed, and shows you in details the image selected in a details fragment.
+Simple app that shows images in a recyclerview, that allows user to select the amount of images displayed, and shows you in details the image selected in a details activity.
 
 For Achieving all this, the app implements a MVP as pattern design.
 Dagger-Hilt are the dependency injections choose to help with reduction of the amount of code.
