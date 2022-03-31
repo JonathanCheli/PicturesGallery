@@ -22,6 +22,8 @@ OkHttp3.
 
 Paging.
 
+Room.
+
 Coroutines.
 
 Reactive programming.
@@ -29,6 +31,8 @@ Reactive programming.
 clean code.
 
 Material Components.
+
+UnitTesting.
 
 Jetpack:
 
